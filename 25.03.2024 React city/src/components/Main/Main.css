@@ -1,0 +1,52 @@
+.Main_descriprion{
+    border: 1px solid gray;
+    display: flex;
+    max-width:  700px;
+    width: 100%;
+    text-align: start;
+    padding: 20px;
+    margin-top: 50px;
+    
+}
+
+
+.Main_text_info{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 50px;
+
+}
+
+
+.images_city{
+    border: 1px solid gray;
+    display: flex;
+}
+
+
+.image_one{
+    background-image: url('/src/assets/images/s1200-3.png');
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+   
+    
+    
+
+}
+
+.image_two{
+    
+}
+
+.image_three{
+    
+}
+
+.image_foor{
+    
+}
